@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucas Marcelo</h1>
-- 🔭 I’m currently working on **My TCC**
+- 🔭 I’m currently working on Padoka´s gestão
 
 - 🌱 I’m currently learning **Java, python**
 
 - 👯 I’m looking to collaborate on **My university Projects**
-
-- 🤝 I’m looking for help with **My TCC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
